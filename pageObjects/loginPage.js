@@ -12,6 +12,8 @@ class LoginPage{
         await this.page("https://rahulshettyacademy.com/client");
 
 
+        console.log('fixed');
+
 
 
     }
